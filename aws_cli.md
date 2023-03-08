@@ -10,4 +10,4 @@ Allows to interact with multiple aws services, lie S3
 
 	We need to configure the initial fields by using the command:
 
-	aws configure
+	aws configure (write temp, for all the values)
